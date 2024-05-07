@@ -1,6 +1,6 @@
 # Mateus Dias Rezende
 
-Estudante de Sistesmas para Internet, buscando me desenvolver e aprender cada vez mais e procurando desafios e oportunidades.
+Estudante de Sistemas para Internet, buscando me desenvolver e aprender cada vez mais.
 
 ### Conecte-se comigo
 
